@@ -73,6 +73,7 @@ public class IanBeltrand_Examen1P2 {
                     
                     break;
                 case 2:
+                    admi.Ingresar();
                     break;
             }
             
@@ -84,3 +85,4 @@ public class IanBeltrand_Examen1P2 {
     }
     
 }
+
